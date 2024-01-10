@@ -26,6 +26,7 @@ De opdracht van talstelsen vond ik het meest intressant , dit omdat het meer wis
 hieronder ziet u mijn resultaat voor de test en hoe de test inhoudelijk eruit zag:
 
 ![](./Talstelsels1.png?raw=true)
+
 ![](./Talstelsels2.png?raw=true)
 ## Opdrachten WPL 2
 
