@@ -102,19 +102,18 @@ Gedurende de hele opleiding zal er gewerkt worden om deze competenties te verwer
 flankerende opleidingsonderdelen zowel als tijdens Werkplekleren.
 
 ### Mijn evolutie tijdens WPL1
-Je mag de volgende punten in bullets noteren maar je moet wel volledige, correct Nederlandse zinnen
-maken. Voorbeelden vind je in het voorbeeld-portfolio.
+
 
 Mijn belangrijke leermomenten van WPL1 waren de volgende:
-* ...
-* ...
+* ik heb vooral bijgeleerd dat je je eigen steeds moet onderwijzen aangezien dat alles in deze richting steeds evolueert en
+* tijdens wpl hebben we ook vooral gewerkt aan zelfontwikkeling, hierdoor ben ik meer te weten gekomen over mijzelf
 * ...
 
 
 Dit zijn mijn **sterke punten** die ik deze semester heb geïdentificeerd (technische en soft skills).
 Vertel er ook bij of je ze al gebruikt hebt en zo ja, hoe.
 Technische skills:
-* ...
+* Netwerkbeheer
 * ...
 
 
