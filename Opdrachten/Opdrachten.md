@@ -24,6 +24,9 @@ Dit zijn de opdrachten die we hebben gemaakt tijden WPL 1
 De opdracht van talstelsen vond ik het meest intressant , dit omdat het meer wiskundig is en zelf ben ik ook graag bezig met wiskundige opdrachten.
 
 hieronder ziet u mijn resultaat voor de test en hoe de test inhoudelijk eruit zag:
+
+![](./Talstelsels1.png?raw=true)
+![](./Talstelsels2.png?raw=true)
 ## Opdrachten WPL 2
 
 ## Opdrachten WPL 3
