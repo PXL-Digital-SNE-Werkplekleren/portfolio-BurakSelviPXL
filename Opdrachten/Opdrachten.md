@@ -25,12 +25,12 @@ De opdracht van talstelsen vond ik het meest intressant , dit omdat het meer wis
 
 hieronder ziet u mijn resultaat voor de test en hoe de test inhoudelijk eruit zag:
 
-![](./Talstelsels1.png?raw=true)
-
-![](./Talstelsels2.png?raw=true)
-## Opdrachten WPL 2
-![Talstelsels2](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-BurakSelviPXL/assets/148559012/1a4443e6-22bd-43fb-b833-24578b7a5d14)
 ![Talstelsels1](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-BurakSelviPXL/assets/148559012/801e881a-9f22-441a-bca3-5d05b5c0ed73)
+![Talstelsels2](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-BurakSelviPXL/assets/148559012/1a4443e6-22bd-43fb-b833-24578b7a5d14)
+
+
+## Opdrachten WPL 2
+
 
 ## Opdrachten WPL 3
 
