@@ -1,13 +1,14 @@
 # Overzicht Ontwikkelingsgesprekken
 
 ## Overzicht ontwikkelingsgesprekken WPL 1
-Mijn keuze voor de opleiding
+
+### Mijn keuze voor de opleiding
 
 Ik koos voor de opleiding "Systemen en Netwerken" vanwege mijn fascinatie van IT-infrastructuren en het belang van netwerkcommunicatie. Het gedeelte van de opleiding dat mij het meest aanspreekt, is het praktische aspect van het opzetten en beheren van servers.
 
 In mijn toekomstbeeld als servermanager zie ik mezelf werken in een dynamische organisatie met een uitgebreide IT-infrastructuur, waarbij ik verantwoordelijk ben voor het effectieve beheer en de continue optimalisatie van servers en netwerken. Ik geloof dat mijn analytische vaardigheden, gecombineerd met mijn passie voor technologie, goed aansluiten bij de vereisten van dit beroep en zullen bijdragen aan de groei en stabiliteit van een organisatie in de IT-sector.
 
-Mijn beeld van dit beroep
+### Mijn beeld van dit beroep
 
 Na het volgen van WPL1 heb ik een duidelijk beeld gekregen van de invulling van het beroep als servermanager. Mijn analyse van vacatures, deelname aan gastseminaries en het uitvoeren van opdrachten hebben mijn verwachtingen verfijnd.
 
@@ -41,14 +42,14 @@ OLR 13	De student onderhoudt zijn deskundigheidsniveau door relevante IT-ontwikk
 OLR 14	De student is zelfkritisch, ontwikkelt de nodige zelfkennis en gebruikt deze om zijn persoonlijke en professionele groei te bevorderen.
 Gedurende de hele opleiding zal er gewerkt worden om deze competenties te verwerven in de flankerende opleidingsonderdelen zowel als tijdens Werkplekleren.
 
-Mijn evolutie tijdens WPL1
+### Mijn evolutie tijdens WPL1
 Mijn belangrijke leermomenten van WPL1 waren de volgende:
 
 ik heb vooral bijgeleerd dat je je eigen steeds moet onderwijzen aangezien dat alles in deze richting steeds evolueert en
 tijdens wpl hebben we ook vooral gewerkt aan zelfontwikkeling, hierdoor ben ik meer te weten gekomen over mijzelf
 
 ...
-Dit zijn mijn sterke punten die ik deze semester heb geïdentificeerd (technische en soft skills). Vertel er ook bij of je ze al gebruikt hebt en zo ja, hoe.
+### Dit zijn mijn sterke punten die ik deze semester heb geïdentificeerd (technische en soft skills). 
 
 Technische skills: 
 -het Netwerkbeheer: het was al te verwachten dat het gedeeldte networks een van mijn technische sterktepunten zou zijn, ik ben altijd nieuwsgierig en wil altijd bijleren over dit aspect, ook volg ik het vak met alle passie en alle inzettingsvermogen.
@@ -63,8 +64,7 @@ Soft skills:
 
 ...
 ...
-Dit zijn mijn ontwikkelpunten waarin ik tijdens WPL2 beter hoop te worden:
-(ontwikkelpunten zijn skills (technische/soft skills) waarin je beter wil worden, waarin je wil groeien)
+### Dit zijn mijn ontwikkelpunten waarin ik tijdens WPL2 beter hoop te worden:
 
 -Diepgaandere technische kennis: Streven naar een dieper begrip van specifieke technologieën of concepten binnen het domein van systeem- en netwerkbeheer. Dit kan 
  zich vertalen in gerichte zelfstudie, het volgen van aanvullende cursussen, of het actief deelnemen aan technische workshops.
