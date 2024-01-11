@@ -26,6 +26,23 @@ We kregen een gastspreker die als hoofd van de service desk bij Carglass werkte.
 
 de sprekers waren zelf geen IT'ers maar recruiters, ze deden de nodige uitleg wat bedrijfen zoeken in een IT'er, en dat het van cruciaal belang is voor een bedrijf dat er een goede IT'er word aangenomen. ze lichten enkele vaardigheden toe die een IT'er zeker moet bezitten. Zelf heb ik ook veel geleerd over het aanwerf gedeelte van mijn carrière en dat ik zeker belang moet hechten aan dit aspect.
 
+### Slot evaluatie
+
+#### Wat weet je al over de soort job die je later wilt uitoefenen?
+
+Ik heb al wat inzicht gekregen in het soort werk dat ik wil doen door mijn huidige studies en ervaringen. Mijn interesse ligt bij [specifieke branche of functie]. Ik ben me bewust van de basisvaardigheden en verantwoordelijkheden, maar ik hoop tijdens WPL meer praktijkervaring op te doen.
+
+#### Waarover zou je nog wel een gastseminarie willen tijdens WPL2?
+
+Ik zou graag een gastseminarie willen over een netwerkbeheerder omdat ik geloof dat dit mijn begrip van de industrie zou verdiepen en me zou helpen bij het ontwikkelen van vaardigheden die waardevol zijn voor mijn gewenste carrière.
+
+#### Welk inzicht heeft WPL1 jou gebracht?
+
+WPL1 heeft mij een eerste inzicht gegeven in de praktijk van mijn vakgebied. Ik heb geleerd hoe de theoretische kennis die ik heb opgedaan in mijn studie daadwerkelijk wordt toegepast in de professionele wereld. Ook heb ik ontdekt welke specifieke vaardigheden en competenties nodig zijn voor succes in mijn vakgebied.
+
+#### Wat hoop je in WPL2 te leren en ontdekken? Wat zijn je voornemens?
+
+In WPL2 hoop ik mijn praktische vaardigheden verder te ontwikkelen en een dieper inzicht te krijgen in de dagelijkse taken en uitdagingen van mijn toekomstige beroep. Mijn voornemen is om actief deel te nemen, vragen te stellen en een netwerk op te bouwen binnen de industrie. Ik wil ook werken aan het verbeteren van mijn soft skills, zoals communicatie en zelfstandigheid.
 
 
 
