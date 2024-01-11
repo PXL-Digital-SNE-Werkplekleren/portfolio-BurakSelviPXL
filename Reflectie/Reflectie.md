@@ -26,6 +26,7 @@ We kregen een gastspreker die als hoofd van de service desk bij Carglass werkte.
 
 de sprekers waren zelf geen IT'ers maar recruiters, ze deden de nodige uitleg wat bedrijfen zoeken in een IT'er, en dat het van cruciaal belang is voor een bedrijf dat er een goede IT'er word aangenomen. ze lichten enkele vaardigheden toe die een IT'er zeker moet bezitten. Zelf heb ik ook veel geleerd over het aanwerf gedeelte van mijn carrière en dat ik zeker belang moet hechten aan dit aspect.
 
+
 ### Slot evaluatie
 
 #### Wat weet je al over de soort job die je later wilt uitoefenen?
