@@ -21,6 +21,7 @@ Competenties systemen en netwerken
 De leerdoelstellingen voor iemand die afstudeert in een graduaat systemen en netwerken staan in deze tabel samengevat:
 
 Graduaat in het Systeem- en Netwerkbeheer
+
 ⬇️ Opleidingsspecifieke leerresultaten
 ROL	INSTALLATEUR
 OLR 1	De student installeert, configureert en test professionele netwerkinfrastructuur volgens de noden van de organisatie op basis van een bestaand plan.
