@@ -31,7 +31,12 @@ hieronder ziet u mijn resultaat voor de test en hoe de test inhoudelijk eruit za
 
 ## Opdrachten WPL 2
 
+In het kader van WPL2 heb ik verschillende technische opdrachten uitgevoerd. Ik begon met het opzetten van een secondary domain controller en een fileserver, die ik met succes implementeerde en verifieerde. Vervolgens heb ik een firewall opgezet en de bijbehorende handleiding geschreven. Daarnaast ben ik gestart met een Cisco-opdracht waarbij ik pc's verdeelde over verschillende lokalen en servers en access points installeerde. Ook configureerde ik de basisinstellingen van switches en routers en verbond de pc's hiermee. Later richtte ik me op het opzetten van een intranet-website en het instellen van group policies, waaronder het bepalen dat leraren lokale beheerders zijn. Tot slot werkten we als team aan de afronding en presentatie van onze projecten.
+
+[Eindpresentatie_WPL2.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-BurakSelviPXL/files/15470829/Eindpresentatie_WPL2.pdf)
+
 
 ## Opdrachten WPL 3
 
 ## Opdrachten WPL 4
+
