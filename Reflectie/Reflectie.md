@@ -48,6 +48,11 @@ In WPL2 hoop ik mijn praktische vaardigheden verder te ontwikkelen en een dieper
 
 
 ## Reflectie WPL 2
+Tijdens WPL2 heb ik verschillende technische opdrachten uitgevoerd, die me zowel uitdagingen als groeimogelijkheden hebben geboden. Ik begon met het opzetten van een secondary domain controller en een fileserver, wat goed lukte dankzij mijn eerdere ervaring met netwerken. Het configureren van de firewall en het schrijven van de handleiding gingen ook soepel, hoewel het documenteren soms tijdrovend was. De Cisco-opdracht, waarbij ik pc's over verschillende lokalen moest verdelen en access points moest installeren, was uitdagender. Ik moest geduldig blijven en nauwkeurig werken, vooral bij het configureren van de switches en routers.
+
+Het opzetten van de intranet-website was een omvangrijke taak waarbij ik veel heb geleerd over webontwikkeling en CSS. Het instellen van group policies, zoals het toewijzen van lokale beheerdersrechten aan leraren, was een nieuwe ervaring die mijn begrip van netwerkbeheer heeft verdiept. Als team hebben we goed samengewerkt; communicatie en taakverdeling waren essentieel om onze doelen te bereiken. Het werken aan de gezamenlijke presentatie heeft ons geholpen om onze prestaties overzichtelijk te presenteren en te reflecteren op onze leerervaringen.
+
+Technisch gezien ben ik gegroeid in het configureren van netwerken en servers, evenals in het schrijven van documentatie en handleidingen. Op het gebied van soft skills heb ik mijn teamwerk en communicatievaardigheden verbeterd, wat cruciaal was voor het succes van ons project. Over het algemeen was WPL2 een leerzame ervaring die me heeft geholpen om zowel mijn technische als persoonlijke vaardigheden verder te ontwikkelen.
 
 ## Reflectie WPL 3
 
