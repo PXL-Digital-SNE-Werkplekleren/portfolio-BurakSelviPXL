@@ -142,6 +142,7 @@ Soft skills:
 ...
 ...
 ## Overzicht ontwikkelingsgesprekken WPL 2
+Zie opdrachten en reflectie
 
 ## Overzicht ontwikkelingsgesprekken WPL 3
 
