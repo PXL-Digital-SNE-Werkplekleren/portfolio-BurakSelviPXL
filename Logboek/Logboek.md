@@ -8,6 +8,8 @@ hieronder vindt u de planning voor WPL 1 :
 ![](./planning2.png?raw=true)
 ## Logboek WPL 2
 
+Zie Opdrachten en reflectie
+
 ## Logboek WPL 3
 
 ## Logboek WPL4
