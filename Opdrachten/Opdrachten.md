@@ -35,8 +35,12 @@ In het kader van WPL2 heb ik verschillende technische opdrachten uitgevoerd. Ik 
 
 [Eindpresentatie_WPL2.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-BurakSelviPXL/files/15470829/Eindpresentatie_WPL2.pdf)
 
+Ik ben het meest fier op het resultaat van mijn Intranet website
+[Intranet website.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-BurakSelviPXL/files/15470976/Intranet.website.pdf)
+
 
 ## Opdrachten WPL 3
 
 ## Opdrachten WPL 4
+
 
