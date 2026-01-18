@@ -146,4 +146,13 @@ Zie opdrachten en reflectie
 
 ## Overzicht ontwikkelingsgesprekken WPL 3
 
+In de afgelopen tijd van Werkplekleren ben ik aanzienlijk gegroeid, zowel als persoon als IT-professional. Mijn technische kennis is aanzienlijk toegenomen en ik heb tal van nieuwe vaardigheden ontwikkeld die van belang zijn voor de werkomgeving. Bovendien heb ik ook vooruitgang geboekt op het gebied van soft skills, zoals communicatie, samenwerking en het nemen van verantwoordelijkheid. De feedback die ik kreeg, toonde aan dat mijn toewijding, nieuwsgierigheid en optimistische instelling werden gewaardeerd. Ik heb ontdekt dat ik uit mijn fouten kan leren in plaats van ze als hindernissen te beschouwen. Hoewel er uitdagingen zijn, ben ik altijd optimistisch gebleven, ongeacht de situatie. Deze tijd heeft ervoor gezorgd dat ik zelfverzekerder en professioneler in mijn functie sta.
+
+[WPL3-FG_SelviBurak.pdf](https://github.com/user-attachments/files/24697554/WPL3-FG_SelviBurak.pdf)
+
+[WPL3-EG_SelviBurak.pdf](https://github.com/user-attachments/files/24697575/WPL3-EG_SelviBurak.pdf)
+
+
 ## Overzicht ontwikkelingsgesprekken WPL 4
+
+
