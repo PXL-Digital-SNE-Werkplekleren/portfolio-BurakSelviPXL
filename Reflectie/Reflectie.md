@@ -56,5 +56,13 @@ Technisch gezien ben ik gegroeid in het configureren van netwerken en servers, e
 
 ## Reflectie WPL 3
 
+Tijdens de voorbije periode van Werkplekleren heb ik een duidelijke groei doorgemaakt, zowel als persoon als binnen mijn rol als IT’er. Ik kijk hier positief op terug omdat ik veel heb bijgeleerd, zowel op technisch vlak als op het gebied van soft skills. Ik ben vooral tevreden over mijn inzet en doorzettingsvermogen. Er waren momenten waarop het moeilijk liep, maar ik ben altijd blijven proberen en heb geleerd om uit mijn fouten te leren in plaats van ze als mislukkingen te zien.
+
+De werksfeer op mijn werkplek was aangenaam en motiverend. Er was een open bedrijfscultuur waarin samenwerken en vragen stellen vanzelfsprekend waren. Collega’s en mijn werkplekcoach stonden altijd open om te helpen of extra uitleg te geven. Dit zorgde ervoor dat ik mij sneller op mijn gemak voelde en beter kon groeien binnen het team. De samenwerking verliep goed, al besef ik dat ik soms sneller initiatief kan nemen om vragen te stellen of feedback te vragen wanneer iets niet duidelijk is.
+
+Niet alles verliep altijd even vlot tijdens Werkplekleren. Vooral nieuwe en complexere taken vormden soms een uitdaging, zeker wanneer ik nog onvoldoende ervaring had. Toch hebben net deze momenten mij het meest geleerd. Voor WPL4 wil ik verder werken aan mijn zelfstandigheid, planning en zelfvertrouwen. Dit wil ik doen door mij beter voor te bereiden, gerichter te communiceren met mijn werkplekcoach en tijdig hulp te vragen wanneer nodig.
+
+Met het oog op WPL4 wil ik mijn technische kennis verder uitbreiden en mezelf blijven uitdagen. Ik beschik vandaag over een positieve ingesteldheid, leergierigheid en doorzettingsvermogen, en ik probeer deze eigenschappen dagelijks in te zetten op de werkplek. In de toekomst wil ik meer verantwoordelijkheid opnemen en mij verder ontwikkelen door nieuwe en uitdagendere taken aan te pakken. Op die manier wil ik blijven groeien en sterker staan in mijn verdere opleiding en loopbaan.
+
 ## Reflectie WPL 4
 
