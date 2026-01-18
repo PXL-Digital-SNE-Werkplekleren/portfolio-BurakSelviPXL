@@ -41,7 +41,17 @@ Ik ben het meest fier op het resultaat van mijn Intranet website
 
 
 ## Opdrachten WPL 3
+[Burak_Selvi_Voorbereiding_planningsgesprek.docx](https://github.com/user-attachments/files/24697585/Burak_Selvi_Voorbereiding_planningsgesprek.docx)
+
+[ProbleemsituatieWPL32SnebSelviBurak.docx](https://github.com/user-attachments/files/24697591/ProbleemsituatieWPL32SnebSelviBurak.docx)
+
+[WPL3-SNE_Intervisie_Leerdoelen Werkkwaliteiten_SelviBurak_24.docx](https://github.com/user-attachments/files/24697595/WPL3-SNE_Intervisie_Leerdoelen.Werkkwaliteiten_SelviBurak_24.docx)
+
+[WPL3_Intervisie_Pitch_Selvi_Burak.pptx](https://github.com/user-attachments/files/24697598/WPL3_Intervisie_Pitch_Selvi_Burak.pptx)
+
 
 ## Opdrachten WPL 4
+
+
 
 
