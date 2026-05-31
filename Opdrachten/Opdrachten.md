@@ -51,6 +51,12 @@ Ik ben het meest fier op het resultaat van mijn Intranet website
 
 
 ## Opdrachten WPL 4
+[Rapport_Burak_Selvi (1).pdf](https://github.com/user-attachments/files/28439514/Rapport_Burak_Selvi.1.pdf)
+[WPL_Eindreflectie_SelviBurak.pdf](https://github.com/user-attachments/files/28439513/WPL_Eindreflectie_SelviBurak.pdf)
+[WPL_Intervisie_opdracht_2025-03_SelviBurak (2).pdf](https://github.com/user-attachments/files/28439512/WPL_Intervisie_opdracht_2025-03_SelviBurak.2.pdf)
+[Selvi_Burak_Tussentijdse_Samenvatting (1).pdf](https://github.com/user-attachments/files/28439511/Selvi_Burak_Tussentijdse_Samenvatting.1.pdf)
+[Selvi_Burak_Planvanaanpak (1).pdf](https://github.com/user-attachments/files/28439510/Selvi_Burak_Planvanaanpak.1.pdf)
+[Projectvoorstel_Selvi_Burak_V2 (1).pdf](https://github.com/user-attachments/files/28439508/Projectvoorstel_Selvi_Burak_V2.1.pdf)
 
 
 
