@@ -18,3 +18,7 @@ In het afgelopen semester van WPL heb ik een waardevolle en leerzame ervaring be
 
 ## Logboek WPL4
 
+Tijdens mijn werkplekleren bij Scholengroep Adite heb ik 334 uur gewerkt aan diverse IT-projecten en helpdeskondersteuning. Mijn voornaamste project was het ontwikkelen van een Linux Deployment System (LDS) met PXE-boot, waarbij ik Proxmox, TFTP, DHCP en Apache-servers heb geconfigureerd. Daarnaast heb ik gewerkt aan een Clonezilla-server voor automatische PC-deployment en Windows Deployment Services (WDS) opgezet. Voor mijn graduaatsproef heb ik een centraal monitoringsysteem ontwikkeld met Microsoft Azure Monitor, PowerShell-scripting en een PHP-dashboard. Wekelijks heb ik helpdeskondersteuning geboden aan eindgebruikers, hardware-onderhoud uitgevoerd en laptops geïnstalleerd. Ik heb ook netwerkinfrastructuur beheerd, PLC-configuraties aangepast en veiligheidsmaatregelen geïmplementeerd. Deze ervaring heeft mij praktische vaardigheden gegeven in systeembeheer, automatisering, troubleshooting en gebruikersondersteuning.
+
+[Logboek_selviBurak_WPL4.pdf](https://github.com/user-attachments/files/28439115/Logboek_selviBurak_WPL4.pdf)
+
