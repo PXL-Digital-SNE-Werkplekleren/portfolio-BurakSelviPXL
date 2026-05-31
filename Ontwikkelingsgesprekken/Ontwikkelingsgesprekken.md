@@ -155,4 +155,16 @@ In de afgelopen tijd van Werkplekleren ben ik aanzienlijk gegroeid, zowel als pe
 
 ## Overzicht ontwikkelingsgesprekken WPL 4
 
+### Technische kennis
+Tijdens mijn werkplekleren bij Scholengroep Adite heb ik mijn technische kennis sterk uitgebreid op het vlak van virtualisatie, deployment en monitoring. Ik heb zelfstandig een Linux Deployment System (LDS) opgezet met PXE-boot, TFTP, DHCP en Apache-configuratie in Proxmox, waarbij ik complexe boot-problemen heb getroubleshoot via bash-scripting en firewallconfiguratie. Daarnaast heb ik gewerkt met Windows Deployment Services (WDS), Clonezilla-server en Microsoft Intune voor software-deployment. Voor mijn graduaatsproef heb ik een monitoringssysteem ontwikkeld met Azure Log Analytics, PowerShell-scripting en een PHP-dashboard, waarbij ik API's, cronjobs en automatische ticketing heb geïntegreerd. Ook heb ik PLC-netwerken geconfigureerd, VLAN's ingesteld en SSH-keys voor veilige remote toegang beheerd.
 
+### Soft skills
+Mijn sterkste groei zit in gebruikersondersteuning en communicatie. Ik heb wekelijks helpdeskwerk gedaan waarbij ik eindgebruikers vriendelijk en geduldig heb geholpen bij IT-problemen, van hardware-storingen tot netwerkproblemen. Ik heb geleerd om technische oplossingen duidelijk uit te leggen aan niet-technische gebruikers en effectief samen te werken met collega's uit verschillende teams (IT, beheer, onderwijs). Ook heb ik mijn probleemoplossend vermogen en zelfstandigheid versterkt door zelf oplossingen te zoeken, documentatie te raadplegen en initiatief te nemen bij nieuwe projecten.
+
+### Ontvangen feedback
+Van mijn stagebegeleider heb ik de feedback gekregen dat ik sociaal sterk ben, goed communiceer en vriendelijk omga met eindgebruikers, wat een belangrijk pluspunt is in een onderwijsomgeving. Hij benadrukte dat ik goed kan uitleggen wat ik heb gepresteerd en actief bijdraag aan overlegmomenten. Tegelijk werd aangegeven dat er nog technische groeimarge is, vooral rond automatisering, continuïteit en het zelfstandig nemen van netwerkbeslissingen door gebrek aan ervaring. Ik bevestigde zelf dat ik voor complexe netwerkvraagstukken nog soms sturing nodig heb, maar dat ik door mijn stage enorm veel heb bijgeleerd over Azure Portal, Intune en grootschalige IT-infrastructuur. De feedback was ook dat ik meer zelfvertrouwen mag tonen in mijn technische beslissingen en dat mijn graduaatsproef een kans is om dieper technisch inzicht te ontwikkelen.
+
+
+### EG en FG 
+[WPL-EG-Werkprestaties_SelviBurak.pdf](https://github.com/user-attachments/files/28439292/WPL-EG-Werkprestaties_SelviBurak.pdf)
+[WPL4-FG-werkprestaties_SelviBurak.pdf](https://github.com/user-attachments/files/28439300/WPL4-FG-werkprestaties_SelviBurak.pdf)
